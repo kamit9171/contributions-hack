@@ -1,0 +1,2 @@
+//oct 1 2020
+curl -o- https://raw.githubusercontent.com/maxg203/dotfiles/master/install.sh | sh
